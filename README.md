@@ -1,119 +1,74 @@
-# Leon Kelvin Li
+# Hi, I'm Leon Kelvin Li
 
-Computer Engineering student with a strong focus on backend systems, fintech infrastructure, and applied software engineering.  
-I build scalable, security-aware systems that bridge real-world problems with clean, maintainable code.
-
-My work spans backend APIs, mobile integrations, financial workflows, and automation systems. I prioritize correctness, structure, and long-term extensibility over short-term hacks.
+I'm a Computer Engineering student focused on backend systems, fintech infrastructure, and applied software engineering.  
+I enjoy building scalable, well-structured systems that solve real-world problems with clarity and correctness.
 
 ---
 
-## About Me
-
-- Computer Engineering student at California State University, East Bay  
-- Experience building full-stack and backend-heavy systems  
-- Strong interest in fintech, infrastructure, and automation  
-- Comfortable working independently from architecture to implementation  
-- Background in automotive technology, performance systems, and applied engineering  
+### 🚀 About Me
+- 🎓 California State University, East Bay | Computer Engineering  
+- 💡 Interested in backend engineering, fintech systems, and automation  
+- 🧠 Strong focus on system architecture, clean APIs, and long-term maintainability  
+- ✨ Goal: Build reliable, secure, and scalable software that bridges engineering and real-world impact  
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack
 
-### Languages
-- Python  
-- TypeScript  
-- JavaScript  
-- SQL  
-- MIPS Assembly  
-- Bash  
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MIPS](https://img.shields.io/badge/-MIPS%20Assembly-000000?style=flat&logo=assemblyscript&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### Backend & APIs
-- FastAPI  
-- SQLAlchemy  
-- Pydantic  
-- REST API design  
-- Authentication & authorization flows  
+**Libraries & Frameworks**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
 
-### Mobile & Frontend
-- React Native  
-- Expo  
-- Expo Router  
-- Axios  
+**Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### Databases
-- SQLite  
-- PostgreSQL  
-
-### DevOps & Tooling
-- Git & GitHub  
-- Docker (development workflows)  
-- Railway  
-- Environment-based configuration  
-- Linux & macOS development  
-
-### Finance & Integrations
-- KYC / AML workflows  
-- Third-party API integrations  
-- Payment & FX system architecture  
-- Brokerage onboarding flows  
+**Platforms**  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 ---
 
-## Projects
-
-### Orryin — Fintech Investment Platform
-A fintech backend and mobile MVP designed to enable non-U.S. users to invest in U.S. markets.
-
-**Tech Used**
-- Python, FastAPI, SQLAlchemy  
-- SQLite / PostgreSQL  
-- React Native, Expo, TypeScript  
-
-**Features**
-- User onboarding and session management  
-- KYC initiation and status tracking  
-- External provider integrations  
-- End-to-end system test flows  
+### 🧠 Skills
+- Backend System Architecture  
+- REST API Design  
+- Fintech & Compliance-Aware Development  
+- Database Modeling & Transactions  
+- Automation & Tooling  
+- Debugging Complex Systems  
+- Technical Problem Solving  
 
 ---
 
-### AIngle — AI-Assisted Photography Composition
-An experimental AI system that assists with photo composition using pose and depth data.
+### 📂 Featured Projects
 
-**Tech Used**
-- Python  
-- FastAPI  
-- Computer vision pipelines  
-- Media processing workflows  
+- 💰 **Orryin — Fintech Investment Platform**  
+  Backend and mobile MVP enabling non-U.S. users to invest in U.S. markets.  
+  **Tech:** Python, FastAPI, SQLAlchemy, SQLite/PostgreSQL, React Native, Expo  
 
----
+- 📸 **AIngle — AI-Assisted Photo Composition**  
+  AI-powered system exploring pose and depth-based photography guidance.  
+  **Tech:** Python, FastAPI, computer vision pipelines  
 
-### MIDAS — Automated Trading System
-A trading automation and simulation system focused on strategy rules, risk management, and performance tracking.
-
-**Tech Used**
-- Python  
-- Async workflows  
-- Rule-based strategy engines  
-- Data processing and automation  
+- 📊 **MIDAS — Automated Trading System**  
+  Trading automation and simulation system with rule-based strategies and risk management.  
+  **Tech:** Python, async workflows, data processing  
 
 ---
 
-## Skills
-
-- Backend system architecture  
-- API design and documentation  
-- Fintech compliance-aware development  
-- Debugging complex system flows  
-- Automation and tooling  
-- Technical problem solving  
-
----
-
-## Contact
-
-- **LinkedIn:** https://www.linkedin.com/in/leon-kelvin-li-255319254/  
-
----
-
-*This profile reflects ongoing projects and active development.*
+### 📫 Contact Me
+- 💼 LinkedIn: https://www.linkedin.com/in/leon-kelvin-li-255319254/
