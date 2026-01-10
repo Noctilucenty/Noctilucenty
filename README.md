@@ -71,4 +71,5 @@ I enjoy building scalable, well-structured systems that solve real-world problem
 ---
 
 ### 📫 Contact Me
-- 💼 LinkedIn: https://www.linkedin.com/in/leon-kelvin-li-255319254/
+- 💼 LinkedIn  
+- 🌐 Website: orryininvest.com
