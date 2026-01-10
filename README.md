@@ -64,9 +64,9 @@ I enjoy building scalable, well-structured systems that solve real-world problem
   AI-powered system exploring pose and depth-based photography guidance.  
   **Tech:** Python, FastAPI, computer vision pipelines  
 
-- 📊 **MIDAS — Automated Trading System**  
-  Trading automation and simulation system with rule-based strategies and risk management.  
-  **Tech:** Python, async workflows, data processing  
+- 📊 **MIDAS — Automated Trading & Strategy Research System**  
+  Research-oriented trading system focused on market data handling, strategy prototyping, and historical simulation. Designed for experimentation rather than production trading.  
+  **Tech:** C++, Python, data processing, backtesting infrastructure  
 
 ---
 
