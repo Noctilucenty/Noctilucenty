@@ -1,90 +1,88 @@
-# Leon Kelvin Li
+<h1 align="left">Hi, I’m Leon Kelvin Li</h1>
 
-Computer Engineering student and systems-focused builder with a strong interest in **backend architecture, fintech infrastructure, and applied software engineering**. I focus on designing software that is **robust, compliant, and scalable**, with an emphasis on clarity, correctness, and real-world constraints.
+<p align="left">
+Computer Engineering student focused on backend systems, fintech infrastructure, and applied software engineering.
+I build reliable, scalable projects with clear architecture, strong data modeling, and practical integrations.
+</p>
 
----
+<hr/>
 
-## About Me
+<h2 align="left">About Me</h2>
 
-I am currently pursuing a degree in Computer Engineering, with hands-on experience building backend-driven and full-stack applications. My work centers on **API design, data modeling, and system integration**, particularly in domains where reliability and trust are critical.
+<ul>
+  <li>Computer Engineering student (CSU East Bay)</li>
+  <li>Interested in backend architecture, fintech systems, and compliance-aware engineering</li>
+  <li>Building projects that emphasize reliability, clarity, and real-world constraints</li>
+  <li>Goal: ship maintainable systems that users and businesses can trust</li>
+</ul>
 
-I enjoy working close to the infrastructure layer—designing services, integrating external systems, and reasoning about edge cases and long-term maintainability. Beyond implementation, I care deeply about how engineering decisions interact with **business requirements, regulation, and user experience**.
+<hr/>
 
----
+<h2 align="left">Tech Stack</h2>
 
-## Areas of Focus
+<p align="left"><b>Languages</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
-- Backend system design and API architecture  
-- Fintech platforms and compliance-aware engineering  
-- Automation and data-driven workflows  
-- Building maintainable, production-minded software  
+<p align="left"><b>Frameworks & Libraries</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-111111?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-111111?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-111111?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
 
----
+<p align="left"><b>Tools</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-## Technical Stack
+<p align="left"><b>Platforms</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/macOS-111111?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
-### Languages
-- Python  
-- TypeScript / JavaScript  
-- SQL  
-- C / C++
+<hr/>
 
-### Backend & Systems
-- FastAPI  
-- RESTful API design  
-- SQLAlchemy and relational data modeling  
-- Authentication and KYC-oriented workflows  
-- Third-party API integrations  
+<h2 align="left">Featured Projects</h2>
 
-### Mobile / Frontend
-- React Native (Expo)  
-- TypeScript-based mobile architectures  
+<ul>
+  <li>
+    <b><a href="https://github.com/Noctilucenty/orryin-backend">Orryin</a></b><br/>
+    Fintech backend architecture for global users. FastAPI + SQLAlchemy with compliance-aware workflows and external integrations.
+  </li>
+  <br/>
+  <li>
+    <b><a href="https://github.com/Noctilucenty/Aingle">AIngle</a></b><br/>
+    AI-assisted photo composition system exploring practical computer vision and mobile-first UX.
+  </li>
+</ul>
 
-### Tools & Platforms
-- Git & GitHub  
-- Linux and macOS environments  
-- API-first system design  
-- Automation and scripting  
+<hr/>
 
----
+<h2 align="left">GitHub Stats</h2>
 
-## Selected Projects
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noctilucenty&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noctilucenty&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff" height="150" />
+</p>
 
-### Orryin  
-A fintech platform designed to enable global users to invest in U.S. markets through a compliance-aware, modular backend architecture.
+<hr/>
 
-**Highlights**
-- Backend built with FastAPI and SQLAlchemy  
-- Structured KYC/AML workflows  
-- External integrations for FX and brokerage services  
-- Emphasis on correctness, auditability, and system clarity  
+<h2 align="left">Contact</h2>
 
----
-
-### AIngle  
-An AI-powered photo composition assistant that provides guidance using computer vision techniques.
-
-**Highlights**
-- Backend-driven architecture with mobile-first delivery  
-- Exploration of pose estimation and depth-aware composition  
-- Focus on practical AI usage rather than black-box models  
-
----
-
-## Engineering Values
-
-- Clear and explicit logic over clever shortcuts  
-- Systems that are easy to reason about and maintain  
-- Strong separation of concerns  
-- Engineering decisions informed by real constraints  
-
----
-
-## Connect
-
-- GitHub: https://github.com/Noctilucenty  
-- LinkedIn: https://www.linkedin.com/in/leon-kelvin-li-255319254/
-
----
-
-I approach engineering with the belief that good systems are not just functional, but **intentional, dependable, and built to last**.
+<ul>
+  <li><a href="https://www.linkedin.com/in/leon-kelvin-li-255319254/">LinkedIn</a></li>
+  <li><a href="https://github.com/Noctilucenty">GitHub</a></li>
+</ul>
