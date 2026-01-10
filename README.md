@@ -1,88 +1,119 @@
-<h1 align="left">Hi, I’m Leon Kelvin Li</h1>
+# Leon Kelvin Li
 
-<p align="left">
-Computer Engineering student focused on backend systems, fintech infrastructure, and applied software engineering.
-I build reliable, scalable projects with clear architecture, strong data modeling, and practical integrations.
-</p>
+Computer Engineering student with a strong focus on backend systems, fintech infrastructure, and applied software engineering.  
+I build scalable, security-aware systems that bridge real-world problems with clean, maintainable code.
 
-<hr/>
+My work spans backend APIs, mobile integrations, financial workflows, and automation systems. I prioritize correctness, structure, and long-term extensibility over short-term hacks.
 
-<h2 align="left">About Me</h2>
+---
 
-<ul>
-  <li>Computer Engineering student (CSU East Bay)</li>
-  <li>Interested in backend architecture, fintech systems, and compliance-aware engineering</li>
-  <li>Building projects that emphasize reliability, clarity, and real-world constraints</li>
-  <li>Goal: ship maintainable systems that users and businesses can trust</li>
-</ul>
+## About Me
 
-<hr/>
+- Computer Engineering student at California State University, East Bay  
+- Experience building full-stack and backend-heavy systems  
+- Strong interest in fintech, infrastructure, and automation  
+- Comfortable working independently from architecture to implementation  
+- Background in automotive technology, performance systems, and applied engineering  
 
-<h2 align="left">Tech Stack</h2>
+---
 
-<p align="left"><b>Languages</b></p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
+## Tech Stack
 
-<p align="left"><b>Frameworks & Libraries</b></p>
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-111111?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-111111?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-111111?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
+### Languages
+- Python  
+- TypeScript  
+- JavaScript  
+- SQL  
+- MIPS Assembly  
+- Bash  
 
-<p align="left"><b>Tools</b></p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+### Backend & APIs
+- FastAPI  
+- SQLAlchemy  
+- Pydantic  
+- REST API design  
+- Authentication & authorization flows  
 
-<p align="left"><b>Platforms</b></p>
-<p align="left">
-  <img src="https://img.shields.io/badge/macOS-111111?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+### Mobile & Frontend
+- React Native  
+- Expo  
+- Expo Router  
+- Axios  
 
-<hr/>
+### Databases
+- SQLite  
+- PostgreSQL  
 
-<h2 align="left">Featured Projects</h2>
+### DevOps & Tooling
+- Git & GitHub  
+- Docker (development workflows)  
+- Railway  
+- Environment-based configuration  
+- Linux & macOS development  
 
-<ul>
-  <li>
-    <b><a href="https://github.com/Noctilucenty/orryin-backend">Orryin</a></b><br/>
-    Fintech backend architecture for global users. FastAPI + SQLAlchemy with compliance-aware workflows and external integrations.
-  </li>
-  <br/>
-  <li>
-    <b><a href="https://github.com/Noctilucenty/Aingle">AIngle</a></b><br/>
-    AI-assisted photo composition system exploring practical computer vision and mobile-first UX.
-  </li>
-</ul>
+### Finance & Integrations
+- KYC / AML workflows  
+- Third-party API integrations  
+- Payment & FX system architecture  
+- Brokerage onboarding flows  
 
-<hr/>
+---
 
-<h2 align="left">GitHub Stats</h2>
+## Projects
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noctilucenty&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noctilucenty&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff" height="150" />
-</p>
+### Orryin — Fintech Investment Platform
+A fintech backend and mobile MVP designed to enable non-U.S. users to invest in U.S. markets.
 
-<hr/>
+**Tech Used**
+- Python, FastAPI, SQLAlchemy  
+- SQLite / PostgreSQL  
+- React Native, Expo, TypeScript  
 
-<h2 align="left">Contact</h2>
+**Features**
+- User onboarding and session management  
+- KYC initiation and status tracking  
+- External provider integrations  
+- End-to-end system test flows  
 
-<ul>
-  <li><a href="https://www.linkedin.com/in/leon-kelvin-li-255319254/">LinkedIn</a></li>
-  <li><a href="https://github.com/Noctilucenty">GitHub</a></li>
-</ul>
+---
+
+### AIngle — AI-Assisted Photography Composition
+An experimental AI system that assists with photo composition using pose and depth data.
+
+**Tech Used**
+- Python  
+- FastAPI  
+- Computer vision pipelines  
+- Media processing workflows  
+
+---
+
+### MIDAS — Automated Trading System
+A trading automation and simulation system focused on strategy rules, risk management, and performance tracking.
+
+**Tech Used**
+- Python  
+- Async workflows  
+- Rule-based strategy engines  
+- Data processing and automation  
+
+---
+
+## Skills
+
+- Backend system architecture  
+- API design and documentation  
+- Fintech compliance-aware development  
+- Debugging complex system flows  
+- Automation and tooling  
+- Technical problem solving  
+
+---
+
+## Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/leon-kelvin-li-255319254/  
+
+---
+
+*This profile reflects ongoing projects and active development.*
