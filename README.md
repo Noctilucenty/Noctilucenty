@@ -1,59 +1,90 @@
 # Leon Kelvin Li
 
-Computer Engineering student with a strong focus on **backend systems, fintech infrastructure, and applied software engineering**. I work on projects that prioritize **real-world constraints, scalability, and clarity**, combining technical rigor with thoughtful system design.
+Computer Engineering student and systems-focused builder with a strong interest in **backend architecture, fintech infrastructure, and applied software engineering**. I focus on designing software that is **robust, compliant, and scalable**, with an emphasis on clarity, correctness, and real-world constraints.
 
 ---
 
 ## About Me
 
-I am currently pursuing a degree in Computer Engineering, with hands-on experience building full-stack and backend-driven applications. My work is centered around designing systems that are **robust, compliant, and practical**, particularly in domains where reliability and correctness matter—such as fintech, automation, and data-driven platforms.
+I am currently pursuing a degree in Computer Engineering, with hands-on experience building backend-driven and full-stack applications. My work centers on **API design, data modeling, and system integration**, particularly in domains where reliability and trust are critical.
 
-I enjoy working close to the infrastructure layer: APIs, data models, authentication flows, and integrations with external services. I value clean abstractions, explicit logic, and systems that are easy to reason about and maintain over time. Beyond code, I am interested in how engineering decisions interact with business, regulation, and user trust.
+I enjoy working close to the infrastructure layer—designing services, integrating external systems, and reasoning about edge cases and long-term maintainability. Beyond implementation, I care deeply about how engineering decisions interact with **business requirements, regulation, and user experience**.
 
 ---
 
-## Current Projects
+## Areas of Focus
+
+- Backend system design and API architecture  
+- Fintech platforms and compliance-aware engineering  
+- Automation and data-driven workflows  
+- Building maintainable, production-minded software  
+
+---
+
+## Technical Stack
+
+### Languages
+- Python  
+- TypeScript / JavaScript  
+- SQL  
+- C / C++
+
+### Backend & Systems
+- FastAPI  
+- RESTful API design  
+- SQLAlchemy and relational data modeling  
+- Authentication and KYC-oriented workflows  
+- Third-party API integrations  
+
+### Mobile / Frontend
+- React Native (Expo)  
+- TypeScript-based mobile architectures  
+
+### Tools & Platforms
+- Git & GitHub  
+- Linux and macOS environments  
+- API-first system design  
+- Automation and scripting  
+
+---
+
+## Selected Projects
 
 ### Orryin  
-A fintech platform focused on enabling global users to invest in U.S. markets through a compliance-aware architecture.  
-**Tech:** FastAPI, SQLAlchemy, REST APIs, KYC/AML workflows, FX and brokerage integrations.
+A fintech platform designed to enable global users to invest in U.S. markets through a compliance-aware, modular backend architecture.
+
+**Highlights**
+- Backend built with FastAPI and SQLAlchemy  
+- Structured KYC/AML workflows  
+- External integrations for FX and brokerage services  
+- Emphasis on correctness, auditability, and system clarity  
+
+---
 
 ### AIngle  
-An AI-powered photo composition assistant designed to provide real-time guidance using computer vision techniques.  
-**Tech:** Python, mobile-first architecture, pose estimation, depth analysis.
+An AI-powered photo composition assistant that provides guidance using computer vision techniques.
+
+**Highlights**
+- Backend-driven architecture with mobile-first delivery  
+- Exploration of pose estimation and depth-aware composition  
+- Focus on practical AI usage rather than black-box models  
 
 ---
 
-## Technical Skills
+## Engineering Values
 
-**Languages**  
-Python, TypeScript, JavaScript, SQL, C/C++
-
-**Backend & Systems**  
-FastAPI, REST API design, authentication flows, database modeling, third-party API integrations
-
-**Mobile / Frontend**  
-React Native (Expo), TypeScript
-
-**Tools & Platforms**  
-Git, GitHub, Linux, macOS, API-driven architectures, automation tooling
-
----
-
-## Interests
-
-- Software architecture and system design  
-- Fintech and compliance-oriented engineering  
-- Automation and efficiency-focused tooling  
-- Building reliable, maintainable software systems
+- Clear and explicit logic over clever shortcuts  
+- Systems that are easy to reason about and maintain  
+- Strong separation of concerns  
+- Engineering decisions informed by real constraints  
 
 ---
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/leon-kelvin-li-255319254/  
-GitHub: https://github.com/Noctilucenty
+- GitHub: https://github.com/Noctilucenty  
+- LinkedIn: https://www.linkedin.com/in/leon-kelvin-li-255319254/
 
 ---
 
-Engineering, to me, is about building systems that are not only functional, but **intentional, dependable, and easy to trust**.
+I approach engineering with the belief that good systems are not just functional, but **intentional, dependable, and built to last**.
