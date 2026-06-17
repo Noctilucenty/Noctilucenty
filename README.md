@@ -220,4 +220,4 @@ AIngle explores AI-assisted photography guidance using pose, depth, and composit
 # Contact Me
 
 - LinkedIn: [Leon Kelvin Li](https://www.linkedin.com/in/leon-kelvin-li-255319254/)
-- Portfolio Website: [Leon Kelvin Li] (https://noctilucenty.github.io/)
+- Portfolio Website: [Portfolio](https://noctilucenty.github.io/)
