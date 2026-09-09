@@ -186,6 +186,8 @@ The project focuses on backend architecture, user onboarding, investment infrast
 
 **Tech:** Python, FastAPI, SQLAlchemy, SQLite/PostgreSQL, React Native, Expo
 
+**Source:** [Backend](https://github.com/Noctilucenty/orryin-backend-FORMER-SCENARA) · [Mobile app](https://github.com/Noctilucenty/orryin-mobile--FORMER-SCENARA)
+
 ---
 
 ## AIngle — AI-Assisted Photo Composition
